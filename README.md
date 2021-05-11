@@ -1,4 +1,4 @@
 # Consuming REST API with Spring Boot
 
-## Fake API from jsonplaceholder
-## Added Unit Tests
+### Fake API from jsonplaceholder
+### Added Unit Tests
